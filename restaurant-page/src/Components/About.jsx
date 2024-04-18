@@ -15,7 +15,7 @@ const About = () => {
       <div className="about-section-text-container">
         <p className="primary-subheading">About</p>
         <h1 className="primary-heading">
-          Food Is An Important Part Of A Balanced Diet
+            Good food is the foundation of genuine happiness.
         </h1>
         <p className="primary-text">
           Ertb is unique come and enjoy by eating our food.
