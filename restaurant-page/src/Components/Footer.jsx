@@ -30,7 +30,7 @@ const Footer = () => {
         </div>
         <div className="footer-section-columns">
           <span>+251-999-999-999</span>
-          <span>hello@food.com</span>
+          <span>henok@food.com</span>
           <span>press@food.com</span>
           <span>contact@food.com</span>
         </div>

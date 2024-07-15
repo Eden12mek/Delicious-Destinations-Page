@@ -1,6 +1,6 @@
 import React from "react";
 import AboutBackground from "../Assets/about-background.png";
-import AboutBackgroundImage from "../Assets/about-background-image.png";
+import Ertb from "../Assets/image1.png";
 import { BsFillPlayCircleFill } from "react-icons/bs";
 
 const About = () => {
@@ -10,7 +10,7 @@ const About = () => {
         <img src={AboutBackground} alt="" />
       </div>
       <div className="about-section-image-container">
-        <img src={AboutBackgroundImage} alt="" />
+        <img src={Ertb} alt="" />
       </div>
       <div className="about-section-text-container">
         <p className="primary-subheading">About</p>

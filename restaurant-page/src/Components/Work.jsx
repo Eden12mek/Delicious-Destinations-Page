@@ -8,17 +8,17 @@ const Work = () => {
     {
       image: PickMeals,
       title: "Pick Meals",
-      text: "Lorem ipsum dolor sit amet consectetur. Maecenas orci et sagittis duis elementum interdum facilisi bibendum.",
+      text: "Choose your favorite Ertb. We're eager to hear your selection! ",
     },
     {
       image: ChooseMeals,
       title: "Choose How Often",
-      text: "Lorem ipsum dolor sit amet consectetur. Maecenas orci et ",
+      text: "Feel free to pick any food you like! What's your favorite? ",
     },
     {
       image: DeliveryMeals,
       title: "Fast Deliveries",
-      text: "Lorem ipsum dolor sit amet consectetur. Maecenas orci et lorem ipsum",
+      text: "We deliver your favorite food quickly.",
     },
   ];
   return (
@@ -27,8 +27,7 @@ const Work = () => {
         <p className="primary-subheading">Work</p>
         <h1 className="primary-heading">How It Works</h1>
         <p className="primary-text">
-          Lorem ipsum dolor sit amet consectetur. Non tincidunt magna non et
-          elit. Dolor turpis molestie dui magnis facilisis at fringilla quam.
+        You are welcome to select any food you prefer, with a particular emphasis on Ertb. We are enthusiastic about delivering your choice promptly!"
         </p>
       </div>
       <div className="work-section-bottom">

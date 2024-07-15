@@ -9,15 +9,15 @@ const Testimonial = () => {
         <p className="primary-subheading">Testimonial</p>
         <h1 className="primary-heading">What They Are Saying</h1>
         <p className="primary-text">
-          Lorem ipsum dolor sit amet consectetur. Non tincidunt magna non et
-          elit. Dolor turpis molestie dui magnis facilisis at fringilla quam.
+        It encourages the person to make a selection while emphasizing the quick delivery of their chosen food item, especially Ertb.
         </p>
       </div>
       <div className="testimonial-section-bottom">
         <img src={ProfilePic} alt="" />
         <p>
-          Lorem ipsum dolor sit amet consectetur. Non tincidunt magna non et
-          elit. Dolor turpis molestie dui magnis facilisis at fringilla quam.
+          Founder of Foodie restaurant which makes ertb, katelo, chips, felafl, special ertb and combo food.
+          With soft drinks.
+          We are here to make you happy. 
         </p>
         <div className="testimonials-stars-container">
           <AiFillStar />
